@@ -78,13 +78,13 @@
       <artifactId>kurento-utils-js</artifactId>
       <version>6.2.0</version>
     </dependency>
-
+<!--
     <dependency>
       <groupId>fi.vtt.nubomedia.msdata</groupId>
       <artifactId>msdatamodule</artifactId>
       <version>1.0.0</version>
     </dependency>
-    
+-->    
   </dependencies>
 
 <!--    
