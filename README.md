@@ -3,6 +3,10 @@
 This project is part of NUBOMEDIA
 http://www.nubomedia.eu/
 
+**Install git and then Checkout from GitHub with the Following**
+
+git clone https://github.com/nubomedia-vtt/msdatademopaasheartrate.git
+
 **Compile**
 
 mvn compile
