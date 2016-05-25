@@ -3,18 +3,32 @@
 This project is part of NUBOMEDIA
 http://www.nubomedia.eu/
 
-**Install git and then Checkout from GitHub with the Following**
+**On the Server Side**
 
+First install git and then checkout from GitHub with the following
+
+```bash
 git clone https://github.com/nubomedia-vtt/msdatademopaasheartrate.git
+```
 
-**Compile**
+Compile Demo
 
+```bash
 mvn compile
+```
 
-**Execute**
+Launch Demo:
 
+```bash
 mvn exec:java
+```
 
+**On the Client Side**
+
+Browse with WebRTC compliant browser (eg Chrome, Firefox) to the server where the demo is launched https://HOST:8443/ 
+Change the HOST and port (8443) if needed.
+
+You should now see the Demo so just follow the given instructions on that page.
 
 **License**
 
